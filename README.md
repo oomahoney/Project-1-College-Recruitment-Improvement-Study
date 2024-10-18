@@ -1,8 +1,8 @@
 The purpose of this project is to collect information on students, specifically those in IT majors to answer these questions: 
 1. What were the main sources from which they received information about CCM’s computing programs? 
-2. What insights can be drawn from the Course Survey data to help increase the number of students taking computing classes?
-3. What is the percentage of each gender in each major?
-4. How many of the current students attended a school-based event prior to applying to college? Which one was the most attended? Which one was the least attended?
+2. What is the percentage of each gender in each major?
+3. How many of the current students attended a school-based event prior to applying to college? Which one was the most attended? Which one was the least attended?
+4. What insights can be drawn from the Course Survey data to help increase the number of students taking computing classes?
 IT majors include Computer Science, Information Technology, Technical Studies, Information Security, Data Analytics, and Web Development. 
 This project also perform data exploration and cleanup within each file.
 
